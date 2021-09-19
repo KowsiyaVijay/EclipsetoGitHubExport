@@ -19,12 +19,7 @@ public class DataTypesInJava {
 
 public static String q;
 
-
-
-
 	public static void main(String[] args) {
-
-				
 		
 		System.out.println(String);
 		System.out.println(string);
