@@ -25,8 +25,7 @@ public static String q;
 		System.out.println(string);
 		System.out.println(c);
 		System.out.println(s);
-		System.out.println(w);
-		System.out.println(o);
+		
 				
 		
 	}
