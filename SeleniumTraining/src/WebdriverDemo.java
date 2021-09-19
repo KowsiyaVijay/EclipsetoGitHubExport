@@ -8,7 +8,7 @@ public class WebdriverDemo {
 WebDriver driver = new ChromeDriver();
 driver.get("http://www.google.com");
 		
-		System.out.println("Test GitHub commit to Jenkins");
+		//System.out.println("Test GitHub commit to Jenkins");
 
 	}
 
