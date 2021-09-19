@@ -24,7 +24,7 @@ public static String q;
 		System.out.println(String);
 		System.out.println(string);
 		System.out.println(c);
-		//System.out.println(s);
+		System.out.println(s);
 		
 				
 		
