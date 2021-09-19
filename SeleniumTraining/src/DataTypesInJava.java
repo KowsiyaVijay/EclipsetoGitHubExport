@@ -28,13 +28,13 @@ public static String q;
 		
 		System.out.println(String);
 		System.out.println(string);
-		/**System.out.println(c);
+		System.out.println(c);
 		System.out.println(s);
 		System.out.println(w);
 		System.out.println(o);
 		System.out.println(j);
 		System.out.println(z);
-		System.out.println(q); **/
+		System.out.println(q); 
 
 		
 		
